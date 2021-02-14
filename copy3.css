@@ -1,0 +1,38 @@
+
+header{
+  height: 10px;
+  background-color: #6CC6C4;
+}
+
+
+.title-left{
+  float: left;
+  margin: 40px 0;
+}
+
+.title-right{
+  float: right;
+}
+
+.name{
+  font-size: 7px;
+  margin-top: 15px;
+}
+
+.tel{
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.time{
+  font-size: 7px;
+  border: 1px solid #cccccc;
+  padding:8px 25px;
+}
+
+
+.title-right p{
+  line-height: 10px;
+}
+
+
