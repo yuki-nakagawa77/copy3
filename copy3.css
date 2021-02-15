@@ -1,38 +1,29 @@
 
-header{
-  height: 10px;
-  background-color: #6CC6C4;
+.container{
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1100px;
 }
 
-
-.title-left{
-  float: left;
-  margin: 40px 0;
+.logos{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.title-right{
+.top-img{
+  background-image: url(img/main_visual_6-0x0.jpg);
+  background-size: cover;
+  height: 800px;
+}
+
+.top-logo{
+  padding: 50px 0 0 70px;
+  width: 250px;
+}
+
+.top-list{
+  color: white;
   float: right;
+  
 }
-
-.name{
-  font-size: 7px;
-  margin-top: 15px;
-}
-
-.tel{
-  font-size: 25px;
-  margin-bottom: 0;
-}
-
-.time{
-  font-size: 7px;
-  border: 1px solid #cccccc;
-  padding:8px 25px;
-}
-
-
-.title-right p{
-  line-height: 10px;
-}
-
-
