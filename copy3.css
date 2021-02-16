@@ -5,12 +5,6 @@
   max-width: 1100px;
 }
 
-.logos{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .top-img{
   background-image: url(img/main_visual_6-0x0.jpg);
   background-size: cover;
@@ -20,10 +14,21 @@
 .top-logo{
   padding: 50px 0 0 70px;
   width: 250px;
+  float: left;
 }
 
-.top-list{
+
+.top-list a{
+  text-decoration: none;
   color: white;
-  float: right;
+  padding-right: 30px;
   
 }
+
+.top-list ul{
+  list-style-type: none;
+  display: flex;
+  float: right;
+  padding-top: 60px;
+}
+
