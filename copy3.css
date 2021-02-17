@@ -40,7 +40,7 @@ body{
 
 .description{
   text-align: center;
-  display: block;
+  background-color: #ccc;
 }
 
 .description h1{
@@ -65,4 +65,38 @@ body{
   width: 230px;
   height: 55px;
   margin: 15px auto;
+}
+
+.second-titles{
+  display: flex;
+}
+
+.second-titles .second-left .second-title{
+  padding: 50px 0 0 40px;
+  margin-bottom: 0px;
+}
+
+.second-titles .second-left img{
+  padding-left: 40px;
+  height: 8px;
+  width: 80px;
+}
+
+.second-titles .second-right{
+  margin: 90px 0 0 650px;
+  display: flex;
+  border: solid 1px black;
+}
+
+.second-titles .second-right a{
+  text-decoration: none;
+  color: black;
+  
+  padding: 15px 20px 15px 50px;
+}
+
+.second-titles .second-right img{
+  height: 14px;
+  margin-top: 21px;
+  padding-right: 30px;
 }
