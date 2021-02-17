@@ -1,4 +1,10 @@
 
+body{
+  font-family: "Helvetica Neue", Helvetica, Arial, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  color: #13191b;
+  line-height: 1.7;
+}
+
 .container{
   width: 100%;
   margin: 0 auto;
@@ -32,7 +38,31 @@
   padding-top: 60px;
 }
 
-.site-logo{
+.description{
+  text-align: center;
+  display: block;
+}
+
+.description h1{
+  font-size: 45px;
+  font-weight: normal;
+}
+
+.texts{
+  max-width: 370px;
+  margin-top: 50px;
+  margin: 0 auto;
   
 }
 
+.texts .text{
+  font-size: 20px;
+  display: block;
+  text-align: left;
+}
+
+.description img{
+  width: 230px;
+  height: 55px;
+  margin: 15px auto;
+}
