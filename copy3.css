@@ -101,5 +101,29 @@ body{
 .second-titles .second-right img{
   height: 14px;
   margin-top: 21px;
-  padding-right: 30px;
+  margin-right: 20px;
+}
+
+.image img{
+  height: 300px;
+  padding-top: 50px;
+  margin: 0 auto;
+}
+
+.image-list{
+  display: flex;
+  justify-content: center; 
+  flex-wrap: wrap;
+  text-align: center;
+  
+}
+
+.image{
+  width: 26%;
+  text-align: left;
+}
+
+.image h2{
+  font-size: 20px;
+  
 }
