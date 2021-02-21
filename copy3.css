@@ -130,3 +130,28 @@ body{
 .second-titles .second{
   margin-left: 700px;
 }
+
+.texts2 .group img{
+  height: 150px;
+  width: 340px;
+}
+
+.texts2 .group{
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+
+}
+
+.text-group{
+  width: 500px;
+  margin-left: 30px;
+}
+
+.text-group h3{
+  font-size: 18px;
+}
+
+.text-group p{
+  font-size: 13px;
+}
