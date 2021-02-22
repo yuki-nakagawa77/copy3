@@ -40,12 +40,14 @@ body{
 
 .description{
   text-align: center;
-  background-color: #ccc;
+  background-color: #f6f6f6;
 }
 
 .description h1{
   font-size: 45px;
   font-weight: normal;
+  margin: 0;
+  padding-top: 100px;
 }
 
 .texts{
