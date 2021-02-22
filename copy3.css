@@ -207,3 +207,22 @@ body{
   letter-spacing: normal;
   word-spacing: normal;
 }
+
+footer{
+  background-color: #656c6e;
+  height: 150px;
+}
+
+.footer-left img{
+  height: 80px;
+  width: 80px;
+  float: left;
+  margin: 35px 0 0 200px;
+}
+
+.footer-right p{
+  font-size: 10px;
+  color: white;
+  float: right;
+  margin: 70px 170px 0 0;
+}
