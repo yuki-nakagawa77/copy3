@@ -190,3 +190,20 @@ body{
   border: 1px solid #2f9bcd;
   padding: 12px 20px;
 }
+
+.footer-nav{
+  background-color: #939899;
+  text-align: center;
+  padding: 15px 0;
+
+}
+
+.navigation li{
+  list-style-type: none;
+  color: white;
+  font-size: 1rem;
+  display: inline-block;
+  margin-left: 40px;
+  letter-spacing: normal;
+  word-spacing: normal;
+}
